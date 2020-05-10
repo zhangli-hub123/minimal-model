@@ -1,0 +1,11 @@
+clingo version 5.4.0
+Reading from stdin
+Solving...
+*** Info : (clingo): INTERRUPTED by signal!
+UNKNOWN
+
+TIME LIMIT   : 1
+Models       : 0+
+Calls        : 1
+Time         : 7200.002s (Solving: 7193.46s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 5261.459s
