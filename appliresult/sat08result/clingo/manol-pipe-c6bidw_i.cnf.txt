@@ -1,0 +1,9 @@
+clingo version 5.4.0
+Reading from stdin
+Solving...
+UNSATISFIABLE
+
+Models       : 0
+Calls        : 1
+Time         : 902.567s (Solving: 882.93s 1st Model: 0.00s Unsat: 882.93s)
+CPU Time     : 899.026s

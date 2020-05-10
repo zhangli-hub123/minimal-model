@@ -1,0 +1,15 @@
+clingo version 5.4.0
+Reading from stdin
+-:24282:5-10: info: atom does not occur in any rule head:
+  p7774
+
+-:24347:5-10: info: atom does not occur in any rule head:
+  p7807
+
+Solving...
+UNSATISFIABLE
+
+Models       : 0
+Calls        : 1
+Time         : 64.188s (Solving: 63.31s 1st Model: 0.00s Unsat: 63.31s)
+CPU Time     : 63.883s

@@ -1,0 +1,7 @@
+WARNING: for repeatability, setting FPU to use double precision
+Memory used           : 20.57 MB
+CPU time              : 5.26454 s
+ComputeModelCount     : 1 
+CheckModelCount       : 0 
+ComputeMIniModelCount : 0 
+UNSATISFIABLE
