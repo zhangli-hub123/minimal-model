@@ -1,6 +1,4 @@
 
-### Codes and experimental results  for paper《Computing Minimal Model Based on MiniSAT》
-
 #### Directory Overview:
 
 appliresult/ > 			 Experimental results of industrial examples <br>
