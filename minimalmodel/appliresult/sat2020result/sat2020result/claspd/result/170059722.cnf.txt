@@ -1,0 +1,6 @@
+claspD version 1.1. Reading...done
+*** INTERRUPTED! ***
+Models    : 0
+Choices   : 40725409
+Conflicts : 33922110
+Restarts  : 29

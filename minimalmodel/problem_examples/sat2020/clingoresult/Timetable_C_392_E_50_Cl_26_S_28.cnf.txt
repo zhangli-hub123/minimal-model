@@ -1,0 +1,69 @@
+clingo version 5.4.0
+Reading from stdin
+-:18818:5-11: info: atom does not occur in any rule head:
+  p18990
+
+-:18819:5-11: info: atom does not occur in any rule head:
+  p18991
+
+-:18820:5-11: info: atom does not occur in any rule head:
+  p18992
+
+-:18824:11-17: info: atom does not occur in any rule head:
+  p18990
+
+-:18825:15-21: info: atom does not occur in any rule head:
+  p18990
+
+-:18826:11-17: info: atom does not occur in any rule head:
+  p18991
+
+-:18827:15-21: info: atom does not occur in any rule head:
+  p18991
+
+-:18828:11-17: info: atom does not occur in any rule head:
+  p18992
+
+-:18829:9-15: info: atom does not occur in any rule head:
+  p18992
+
+-:19482:11-17: info: atom does not occur in any rule head:
+  p18986
+
+-:19483:11-17: info: atom does not occur in any rule head:
+  p18987
+
+-:19485:17-23: info: atom does not occur in any rule head:
+  p18985
+
+-:19486:17-23: info: atom does not occur in any rule head:
+  p18986
+
+-:19487:17-23: info: atom does not occur in any rule head:
+  p18987
+
+-:19491:5-11: info: atom does not occur in any rule head:
+  p19244
+
+-:19495:11-17: info: atom does not occur in any rule head:
+  p19244
+
+-:19496:10-16: info: atom does not occur in any rule head:
+  p19244
+
+-:19824:17-23: info: atom does not occur in any rule head:
+  p19241
+
+-:19828:5-11: info: atom does not occur in any rule head:
+  p19543
+
+-:19829:5-11: info: atom does not occur in any rule head:
+  p19544
+
+Solving...
+UNSATISFIABLE
+
+Models       : 0
+Calls        : 1
+Time         : 47.726s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 43.900s

@@ -1,0 +1,7 @@
+WARNING: for repeatability, setting FPU to use double precision
+Mod：SAT
+Memory used           : 10.47 MB
+CPU time              : 0 s
+SATISFIABLE
+Diagnosis: 13 
+Model:2 5 8 10 11 13 

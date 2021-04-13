@@ -1,0 +1,59 @@
+clingo version 5.4.0
+Reading from stdin
+-:3:5-9: info: atom does not occur in any rule head:
+  p237
+
+-:5:5-9: info: atom does not occur in any rule head:
+  p239
+
+-:6:5-9: info: atom does not occur in any rule head:
+  p240
+
+-:9:5-9: info: atom does not occur in any rule head:
+  p243
+
+-:13:5-9: info: atom does not occur in any rule head:
+  p247
+
+-:16:5-9: info: atom does not occur in any rule head:
+  p250
+
+-:21:5-9: info: atom does not occur in any rule head:
+  p255
+
+-:22:5-9: info: atom does not occur in any rule head:
+  p256
+
+-:23:5-9: info: atom does not occur in any rule head:
+  p257
+
+-:24:5-9: info: atom does not occur in any rule head:
+  p258
+
+-:28:5-9: info: atom does not occur in any rule head:
+  p262
+
+-:29:5-9: info: atom does not occur in any rule head:
+  p263
+
+-:15683:17-22: info: atom does not occur in any rule head:
+  p1396
+
+-:16394:5-10: info: atom does not occur in any rule head:
+  p1396
+
+-:16566:19-24: info: atom does not occur in any rule head:
+  p1396
+
+-:17383:17-22: info: atom does not occur in any rule head:
+  p1396
+
+Solving...
+*** Info : (clingo): INTERRUPTED by signal!
+UNKNOWN
+
+TIME LIMIT   : 1
+Models       : 0+
+Calls        : 1
+Time         : 7200.000s (Solving: 7194.55s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 7181.850s

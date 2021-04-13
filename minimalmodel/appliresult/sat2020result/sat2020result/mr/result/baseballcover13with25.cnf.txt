@@ -1,0 +1,10 @@
+WARNING: for repeatability, setting FPU to use double precision
+
+*** INTERRUPTED ***
+Memory used           : 11949.71 MB
+CPU time              : 7194.87 s
+ComputeModelCount     : 427 
+CheckModelCount       : 427 
+ComputeMIniModelCount : 0 
+
+*** INTERRUPTED ***

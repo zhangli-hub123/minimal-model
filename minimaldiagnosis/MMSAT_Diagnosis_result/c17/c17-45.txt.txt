@@ -1,0 +1,9 @@
+WARNING: for repeatability, setting FPU to use double precision
+Mod：MMSAT
+Memory used           : 18.98 MB
+Solve time            : 0.000040 s
+Minimal time          : 0.000015 s
+CPU time              : 0.001469 s
+SATISFIABLE
+Diagnosis: 
+Model:2 3 4 8 10 11 

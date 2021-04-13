@@ -1,0 +1,63 @@
+clingo version 5.4.0
+Reading from stdin
+-:1577:5-10: info: atom does not occur in any rule head:
+  p3122
+
+-:1578:5-10: info: atom does not occur in any rule head:
+  p3123
+
+-:1579:5-10: info: atom does not occur in any rule head:
+  p3124
+
+-:1580:5-10: info: atom does not occur in any rule head:
+  p3125
+
+-:1581:5-10: info: atom does not occur in any rule head:
+  p3126
+
+-:1582:5-10: info: atom does not occur in any rule head:
+  p3127
+
+-:1634:5-10: info: atom does not occur in any rule head:
+  p3002
+
+-:1635:5-10: info: atom does not occur in any rule head:
+  p3003
+
+-:1636:5-10: info: atom does not occur in any rule head:
+  p3004
+
+-:1637:5-10: info: atom does not occur in any rule head:
+  p3005
+
+-:1638:5-10: info: atom does not occur in any rule head:
+  p3006
+
+-:1639:5-10: info: atom does not occur in any rule head:
+  p3007
+
+-:1640:5-10: info: atom does not occur in any rule head:
+  p3008
+
+-:1641:5-10: info: atom does not occur in any rule head:
+  p3009
+
+-:2028:5-10: info: atom does not occur in any rule head:
+  p1862
+
+-:2029:5-10: info: atom does not occur in any rule head:
+  p1863
+
+-:2030:5-10: info: atom does not occur in any rule head:
+  p1864
+
+-:2031:5-10: info: atom does not occur in any rule head:
+  p1865
+
+-:2032:5-10: info: atom does not occur in any rule head:
+  p1866
+
+-:2033:5-10: info: atom does not occur in any rule head:
+  p1867
+
+Solving...
