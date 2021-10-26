@@ -5,3 +5,4 @@ MMSAT_Diagnosisresult/ > 	 			        Experimental results by MMSAT_Diagnosis <b
 SAT_Diagnosisresult/ >                  		Experimental results by SAT_Diagnosis <br>
 minimal_diagnosis_code/ >      		            Codes for compute minimal model <br>
 data/ >                                         Dataset of experimental <br>
+Verilog2CNF/ >                                 Codes for verilog to CNF <br>
